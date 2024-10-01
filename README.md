@@ -11,12 +11,13 @@
 ## 🔧 설치 방법
 1. 이 저장소를 클론합니다:
    ```bash
-   git clone https://github.com/
+   git clone https://github.com/jinnyday0719/yt_mp4-bass-remover/
    ```
 
 2. 필요한 의존성 패키지를 설치합니다:
    ```bash
-   pip install -r requirements.txt
+   pip install yt_dlp
+   pip install spleeter
    ```
 
 ## 🚀 사용 방법
