@@ -23,7 +23,7 @@
 ## 🚀 사용 방법
 1. 프로그램을 실행하고 베이스 커버 영상의 유튜브 URL을 입력합니다:
    ```bash
-   python your_program_name.py
+   python main.py
    ```
 
 2. 프로그램은 영상을 처리하여 베이스 소리가 제거된 새 비디오 파일을 원래 타브 악보와 함께 저장합니다.
@@ -60,13 +60,13 @@ This program removes the bass sound from YouTube bass cover videos, allowing you
 ## 🚀 Usage
 1. Run the program and input the YouTube URL for the bass cover video:
    ```bash
-   python your_program_name.py
+   python main.py
    ```
 
 2. The program will process the video, remove the bass sound, and save the new video file with the original tablature visible.
 
 ## 📝 Notes
-- Ensure you have `ffmpeg` and `spleeter` installed on your system.
+- Ensure you have `ffmpeg` installed on your system.
 - This tool is intended for practice purposes only.
 
 ## 🤝 Contributions
