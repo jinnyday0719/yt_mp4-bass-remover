@@ -11,7 +11,7 @@
 ## 🔧 설치 방법
 1. 이 저장소를 클론합니다:
    ```bash
-   git clone https://github.com/jinnyday0719/yt_mp4-bass-remover/
+   git clone https://github.com/jinnyday0719/yt_mp4-bass-remover
    ```
 
 2. 필요한 의존성 패키지를 설치합니다:
@@ -29,8 +29,7 @@
 2. 프로그램은 영상을 처리하여 베이스 소리가 제거된 새 비디오 파일을 원래 타브 악보와 함께 저장합니다.
 
 ## 📝 참고 사항
-- `ffmpeg` 및 `spleeter`가 시스템에 설치되어 있어야 합니다.
-- 이 도구는 연습 목적으로만 사용하세요.
+- `ffmpeg`가 시스템에 설치되어 있어야 합니다.
 
 ## 🤝 기여
 이슈를 제출하거나 풀 리퀘스트를 통해 프로젝트에 기여해 주시면 감사하겠습니다!
@@ -49,12 +48,13 @@ This program removes the bass sound from YouTube bass cover videos, allowing you
 ## 🔧 Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/
+   git clone https://github.com/jinnyday0719/yt_mp4-bass-remover
    ```
 
 2. Install the necessary dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install yt_dlp
+   pip install spleeter
    ```
 
 ## 🚀 Usage
