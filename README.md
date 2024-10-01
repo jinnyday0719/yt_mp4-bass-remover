@@ -26,7 +26,7 @@ This program removes the bass sound from YouTube bass cover videos, allowing you
    python main.py
    ```
 
-2. The program will process the video, remove the bass sound, and save the new video file with the original tablature visible.
+2. The program will process the video, remove the bass sound, and save the new video file.
 
 ## 📝 Notes
 - Ensure you have `ffmpeg` installed on your system.
@@ -35,6 +35,8 @@ This program removes the bass sound from YouTube bass cover videos, allowing you
 ## 🤝 Contributions
 Feel free to submit issues or contribute to the project by making a pull request!
 
+<br>
+<br>
 
 # YouTube 베이스 커버 영상 베이스 제거 프로그램
 
@@ -64,7 +66,7 @@ Feel free to submit issues or contribute to the project by making a pull request
    python main.py
    ```
 
-2. 프로그램은 영상을 처리하여 베이스 소리가 제거된 새 비디오 파일을 원래 타브 악보와 함께 저장합니다.
+2. 프로그램은 영상을 처리하여 베이스 소리가 제거된 새 비디오 파일을 저장합니다.
 
 ## 📝 참고 사항
 - `ffmpeg`가 시스템에 설치되어 있어야 합니다.
